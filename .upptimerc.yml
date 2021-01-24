@@ -1,7 +1,7 @@
-# Change these first
+
 user-agent: HvyD
-owner: HvyD # Your GitHub username
-repo: UpTime_monitor # Your GitHub repository name
+owner: HvyD
+repo: UpTime_monitor
 
 workflowSchedule:
   graphs: "0 0 * * *"
