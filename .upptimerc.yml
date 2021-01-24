@@ -1,12 +1,22 @@
 # Change these first
+user-agent: HvyD
 owner: HvyD # Your GitHub username
 repo: UpTime_monitor # Your GitHub repository name
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 # Add your sites here
 sites:
   - name: HvyD
     url: http://www.hvyd.us
-    
+
   - name: monkeyMommaCreations
     url: https://www.monkeymommacreations.com
 
