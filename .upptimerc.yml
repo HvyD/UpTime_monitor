@@ -6,13 +6,10 @@ repo: UpTime_monitor # Your GitHub repository name
 sites:
   - name: HvyD
     url: http://www.hvyd.us
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+    
   - name: monkeyMommaCreations
     url: https://www.monkeymommacreations.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+
+status-website:
+  baseUrl: https://HvyD.github.io/repo/UpTime_monitor # where "repo" is your repository name
+  name: Status Site
