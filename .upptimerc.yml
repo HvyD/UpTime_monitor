@@ -14,12 +14,12 @@ workflowSchedule:
 
 # Add your sites here
 sites:
-  - name: HvyD
+  - name: HvyD's Portfolio Site
     url: http://www.hvyd.us
 
-  - name: monkeyMommaCreations
+  - name: MonkeyMommaCreations Blog and Store Site
     url: https://www.monkeymommacreations.com
 
 status-website:
-  baseUrl: https://HvyD.github.io/repo/UpTime_monitor # where "repo" is your repository name
+  baseUrl: https://hvyd.github.io/repo/uptime_monitor
   name: Status Site
