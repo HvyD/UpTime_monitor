@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 163,
-    "timeWeek": 184,
+    "timeDay": 190,
+    "timeWeek": 185,
     "timeMonth": 168,
     "timeYear": 173,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://www.monkeymommacreations.com",
     "icon": "https://favicons.githubusercontent.com/www.monkeymommacreations.com",
     "slug": "monkey-momma-creations-blog-and-store-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 387,
-    "timeWeek": 328,
-    "timeMonth": 339,
+    "time": 308,
+    "timeDay": 440,
+    "timeWeek": 339,
+    "timeMonth": 346,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-26": 0
+    }
   }
 ]
