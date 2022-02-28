@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 171,
-    "timeWeek": 182,
+    "timeDay": 181,
+    "timeWeek": 184,
     "timeMonth": 170,
     "timeYear": 173,
     "dailyMinutesDown": {}
@@ -24,15 +24,15 @@
     "slug": "monkey-momma-creations-blog-and-store-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 308,
-    "timeDay": 318,
-    "timeWeek": 333,
-    "timeMonth": 349,
-    "timeYear": 305,
+    "timeDay": 371,
+    "timeWeek": 341,
+    "timeMonth": 350,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-02-26": 70
     }
