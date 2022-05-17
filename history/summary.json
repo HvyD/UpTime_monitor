@@ -22,7 +22,7 @@
     "url": "https://www.monkeymommacreations.com",
     "icon": "https://favicons.githubusercontent.com/www.monkeymommacreations.com",
     "slug": "monkey-momma-creations-blog-and-store-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 309,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-02-26": 70
     }
   }
