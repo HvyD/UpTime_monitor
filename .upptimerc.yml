@@ -14,7 +14,7 @@ workflowSchedule:
 
 # Add your sites here
 sites:
-  - name: HvyD's Portfolio Site
+  - name: Scott W. Davis Portfolio Site
     url: https://www.scottwdavis.tech
   - name: MonkeyMommaCreations Blog and Store Site
     url: https://www.monkeymommacreations.com
